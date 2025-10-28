@@ -16,7 +16,7 @@ This warehouse directory group should be formed as follows(Click for relevant fi
   - [2.1 Pre-train](./markdown/2.md#21-pre-train)
   - [2.2 Fintuning](./markdown/2.md#22-fintuning)
   - [2.3 Reinforcement Learning](./markdown/2.md#23-reinforcement-learning)
-  - [2.4 Prompt & Feedback & Agent & RAG:None-train Methods](./markdown/2.md#24-prompt--feedback--agent--rag-non-training-methods)
+  - [2.4 Prompt & Feedback & Agent & RAG: None-train Methods](./markdown/2.md#24-prompt--feedback--agent--rag-non-training-methods)
 - [3.Others](./markdown/3.md)
   - [3.1 Technical Essays](./markdown/3.md#31-technical-essays)
   - [3.2 Surveys](./markdown/3.md#32-surveys)
