@@ -9,14 +9,16 @@ To stay updated with the latest additions and discussions, star or watch this re
 This warehouse directory group should be formed as follows(Click for relevant files):
 
 - [1.Advancements in Code Generation Models: Techniques and Application](./markdown/1.md)
-  - [1.1 Code Generation Models](./markdown/1.md#11-code-generation-models)
-  - [1.2 Code Generation Evaluation](./markdown/1.md#12-code-generation-evaluation)
+  - [1.1 Large Language Models](./markdown/1.md#11-large-language-models)
+  - [1.2 Code Generation LLMs](./markdown/1.md#12-code-generation-llms)
+  - [1.3 Code Generation Evaluation](./markdown/1.md#13-code-generation-evaluation)
   
 - [2.Security in Code Generation: Approaches and Case Studies](./markdown/2.md)
-  - [2.1 Pre-train](./markdown/2.md#21-pre-train)
-  - [2.2 Fintuning](./markdown/2.md#22-fintuning)
-  - [2.3 Reinforcement Learning](./markdown/2.md#23-reinforcement-learning)
-  - [2.4 Prompt & Feedback & Agent & RAG: None-train Methods](./markdown/2.md#24-prompt--feedback--agent--rag-non-training-methods)
+  - [2.1 Model Structure](./markdown/2.md#21-model-structure)
+  - [2.2 Pre-train](./markdown/2.md#22-pre-train)
+  - [2.3 Fintuning](./markdown/2.md#23-fintuning)
+  - [2.4 Reinforcement Learning](./markdown/2.md#24-reinforcement-learning)
+  - [2.5 Prompt & Feedback & Agent & RAG: None-train Methods](./markdown/2.md#25-prompt--feedback--agent--rag-non-training-methods)
 - [3.Others](./markdown/3.md)
   - [3.1 Technical Essays](./markdown/3.md#31-technical-essays)
   - [3.2 Surveys](./markdown/3.md#32-surveys)
