@@ -1,6 +1,7 @@
-/*.pdf
-/tmp.txt
-/markdown/*.pdf
-/*.txt
-/figures
-/note
+*.pdf
+markdown/*.pdf
+*.txt
+figures
+note
+script
+script/*
