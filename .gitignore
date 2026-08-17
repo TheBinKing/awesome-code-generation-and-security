@@ -1,0 +1,8 @@
+*.pdf
+markdown/*.pdf
+*.txt
+figures
+note
+script
+script/*
+.*/
